@@ -1,3 +1,5 @@
 venv/
 artifacts/
 logs/
+textsummarizer_project/
+.vscode/
