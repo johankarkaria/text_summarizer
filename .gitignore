@@ -6,3 +6,4 @@ textsummarizer_project/
 /Users/johankarkaria/mlops_projects/textsummarizer/textsummarizer_project/
 artifacts/
 logs/
+.DS_Store/
